@@ -4679,6 +4679,7 @@ Noam Taub
 - [Matthew Bosek](https://github.com/MatthewBosek)
 - Molly Johnson
 - Titan
+- Ermanno Franco
 - Perttu Raivio
 - Nikhil Mehta
 - [Tzu Yun Fan Chiang](https://github.com/TzuYun)
